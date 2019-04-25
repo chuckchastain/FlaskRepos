@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWeb", "FlaskWeb\FlaskW
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskPolls", "FlaskPolls\FlaskPolls.pyproj", "{9D08497F-9EA4-454E-A5FE-F1F6BC0CCF90}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "microblog", "microblog\microblog.pyproj", "{8108AD81-5C9F-4ECA-A500-B7EFE9C0245A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9D08497F-9EA4-454E-A5FE-F1F6BC0CCF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D08497F-9EA4-454E-A5FE-F1F6BC0CCF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D08497F-9EA4-454E-A5FE-F1F6BC0CCF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8108AD81-5C9F-4ECA-A500-B7EFE9C0245A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8108AD81-5C9F-4ECA-A500-B7EFE9C0245A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8108AD81-5C9F-4ECA-A500-B7EFE9C0245A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8108AD81-5C9F-4ECA-A500-B7EFE9C0245A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
