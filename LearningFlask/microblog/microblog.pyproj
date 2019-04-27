@@ -27,6 +27,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AppDir\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="config.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="microblog.py" />
     <Compile Include="AppDir\views.py">
       <SubType>Code</SubType>
@@ -36,7 +42,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AppDir\templates\base.html" />
     <Content Include="AppDir\templates\index.html" />
+    <Content Include="AppDir\templates\login.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
