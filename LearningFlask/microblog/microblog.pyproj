@@ -30,6 +30,9 @@
     <Compile Include="AppDir\forms.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="AppDir\models.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="config.py">
       <SubType>Code</SubType>
     </Compile>
