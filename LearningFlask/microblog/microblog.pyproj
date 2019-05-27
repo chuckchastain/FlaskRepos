@@ -48,6 +48,7 @@
     <Content Include="AppDir\templates\base.html" />
     <Content Include="AppDir\templates\index.html" />
     <Content Include="AppDir\templates\login.html" />
+    <Content Include="AppDir\templates\register.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
