@@ -46,9 +46,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AppDir\templates\base.html" />
+    <Content Include="AppDir\templates\edit_profile.html" />
     <Content Include="AppDir\templates\index.html" />
     <Content Include="AppDir\templates\login.html" />
     <Content Include="AppDir\templates\register.html" />
+    <Content Include="AppDir\templates\user.html" />
+    <Content Include="AppDir\templates\_post.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
